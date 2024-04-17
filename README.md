@@ -16,6 +16,12 @@
 
 &nbsp;  
 
+[V2.01 - ILS Command](https://github.com/Chauvet-DJ/ILSCOMMAND/blob/02853b645d7792fcec25e8f943b534c38e5f645f/firmware/V2.01_04-17-24.zip)
+- Improved backup/restore files feature and updated user interface
+     * Improvement to the backup/restore files feature
+     * Update to how the Zoom and Prism functions are accessed
+     * Preset page will now be shown as “Page: #” on the display 
+
 [V2.00 - ILS Command](https://github.com/Chauvet-DJ/ILSCOMMAND/blob/d7ac48e5b360f95ec53d743665a63ea17e9f0de6/firmware/V2.00_04-08-24.zip)
 - Added prism, gobo and zoom control for moving heads
 - Added pixel effect triggering for capable fixtures
