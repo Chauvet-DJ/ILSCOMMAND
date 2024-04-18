@@ -3,10 +3,12 @@
 ### Firmware Update Instructions
 1. Download the zip file onto your computer and extract the folder.
 2. Transfer the contents from the zip file onto a USB thumb drive.
-3. Hold down the menu button then power on the fixture to put it into upload mode.
-4. Insert the USB thumb drive into the USB port on the rear of your fixture. The ILS Command will automatically find the firmware and apply it.
-5. The fixture will reset itself automatically and display the new firmware version during start up.
-6. The USB thumb drive can be removed after the fixture restarts.
+3. Power on the controller and let it boot up completely.
+4. Go into the **Settings** menu and navigate to "**System Update**".
+5. Select "**Yes**". The controller will reset and go into upload mode.
+6. Insert the USB thumb drive into the USB port on the rear of the controller. The ILS command will automatically find the firmware and apply it.
+7. The controller will reset itself and display the new firmware version during startup.
+8. The USB thumb drive can be removed after the fixture restarts.
 
 #### Special Notes
 * Do not use a thumb drive greater than 32GB.
