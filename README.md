@@ -18,6 +18,9 @@
 
 &nbsp;  
 
+[V2.02 - ILS Command](https://github.com/Chauvet-DJ/ILSCOMMAND/blob/1248aadbd0f2b2912094a301d4d075668284b01a/firmware/V2.02_05-01-24.zip)
+- Added totem mode control for moving heads
+
 [V2.01 - ILS Command](https://github.com/Chauvet-DJ/ILSCOMMAND/blob/02853b645d7792fcec25e8f943b534c38e5f645f/firmware/V2.01_04-17-24.zip)
 - Improved backup/restore files feature and updated user interface
      * Improvement to the backup/restore files feature
