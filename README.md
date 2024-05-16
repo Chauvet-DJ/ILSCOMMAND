@@ -18,6 +18,9 @@
 
 &nbsp;  
 
+[V2.03 - ILS Command](https://github.com/Chauvet-DJ/ILSCOMMAND/blob/f24206ec6c4d258cddf0934a32ae99d54b3eadfc/firmware/V2.03_05-16-24.zip)
+- Fixed a bug in the preset settings
+
 [V2.02 - ILS Command](https://github.com/Chauvet-DJ/ILSCOMMAND/blob/1248aadbd0f2b2912094a301d4d075668284b01a/firmware/V2.02_05-01-24.zip)
 - Added totem mode control for moving heads
 
