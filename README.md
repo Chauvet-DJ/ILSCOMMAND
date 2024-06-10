@@ -1,22 +1,9 @@
 # ILSCOMMAND
 
-### Firmware Update Instructions
-1. Download the zip file onto your computer and extract the folder.
-2. Transfer the contents from the zip file onto a USB thumb drive.
-3. Power on the controller and let it boot up completely.
-4. Go into the **Settings** menu and navigate to "**System Update**".
-5. Select "**Yes**". The controller will reset and go into upload mode.
-6. Insert the USB thumb drive into the USB port on the rear of the controller. The ILS command will automatically find the firmware and apply it.
-7. The controller will reset itself and display the new firmware version during startup.
-8. The USB thumb drive can be removed after the fixture restarts.
+## Software Versions
 
-#### Special Notes
-* Do not use a thumb drive greater than 32GB.
-* The thumb drive must be formatted to FAT32.
-* The downloaded firmware file must be placed in the root directory on the thumb drive (no folders).
-* Do not disconnect from power source until the update process is complete.
-
-&nbsp;  
+[V2.04 - ILS Command](https://github.com/Chauvet-DJ/ILSCOMMAND/blob/5f174fe626560c7917039aa9833976faef97fdbc/firmware/V2.04_06-07-24.zip)
+- Added the letter "J" to the characters when naming a preset
 
 [V2.03 - ILS Command](https://github.com/Chauvet-DJ/ILSCOMMAND/blob/f24206ec6c4d258cddf0934a32ae99d54b3eadfc/firmware/V2.03_05-16-24.zip)
 - Fixed a bug in the preset settings
@@ -45,3 +32,23 @@
 
 [V1.14 - ILS Command](https://github.com/Chauvet-DJ/ILSCOMMAND/blob/d7ac48e5b360f95ec53d743665a63ea17e9f0de6/firmware/V1.14_06-13-23.zip)
 - Released software version
+
+&nbsp;  
+
+
+## Firmware Update Instructions
+1. Download the zip file onto your computer and extract the folder.
+2. Transfer the contents from the zip file onto a USB thumb drive.
+3. Power on the controller and let it boot up completely.
+4. Go into the **Settings** menu and navigate to "**System Update**".
+5. Select "**Yes**". The controller will reset and go into upload mode.
+6. Insert the USB thumb drive into the USB port on the rear of the controller. The ILS command will automatically find the firmware and apply it.
+7. The controller will reset itself and display the new firmware version during startup.
+8. The USB thumb drive can be removed after the fixture restarts.
+
+### Special Notes
+* Do not use a thumb drive greater than 32GB.
+* The thumb drive must be formatted to FAT32.
+* The downloaded firmware file must be placed in the root directory on the thumb drive (no folders).
+* Do not disconnect from power source until the update process is complete.
+
