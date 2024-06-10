@@ -1,4 +1,4 @@
-# ILSCOMMAND
+# ILS Command
 
 ## Software Versions
 
