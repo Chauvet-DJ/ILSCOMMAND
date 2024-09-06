@@ -2,6 +2,13 @@
 
 ## Software Versions
 
+[V2.06 - ILS Command](https://github.com/Chauvet-DJ/ILSCOMMAND/blob/29eaad212852f2fc85c599a4c896d7f97fc03a70/firmware/V2.06_08-29-24.zip)
+- Fixed a bug in the sound lost setting
+- Added amber control of COREpar fixtures
+- Added more movement patterns to the moving heads
+- Added moving head speed control via fader or speed button
+- Added a faster way to access preset pages by double-clicking Y encoder
+
 [V2.04 - ILS Command](https://github.com/Chauvet-DJ/ILSCOMMAND/blob/5f174fe626560c7917039aa9833976faef97fdbc/firmware/V2.04_06-07-24.zip)
 - Added the letter "J" to the characters when naming a preset
 
