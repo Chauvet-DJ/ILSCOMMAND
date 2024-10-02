@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V2.07 - ILS Command](https://github.com/Chauvet-DJ/ILSCOMMAND/blob/25aea4086e48542c1bbe41e6926122b402c5a42b/firmware/V2.07_09-27-24.zip)
+- Added the ability to turn the D-Fi signal on and off
+
 [V2.06 - ILS Command](https://github.com/Chauvet-DJ/ILSCOMMAND/blob/29eaad212852f2fc85c599a4c896d7f97fc03a70/firmware/V2.06_08-29-24.zip)
 - Fixed a bug in the sound lost setting
 - Added amber control of COREpar fixtures
