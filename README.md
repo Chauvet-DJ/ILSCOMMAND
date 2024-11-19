@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V2.08 - ILS Command](https://github.com/Chauvet-DJ/ILSCOMMAND/blob/195c8954985e207372b45a1d0826375468e2f880/firmware/V2.08_11-15-24.zip)
+- Fixed a bug in the sound sensitivity settings
+
 [V2.07 - ILS Command](https://github.com/Chauvet-DJ/ILSCOMMAND/blob/25aea4086e48542c1bbe41e6926122b402c5a42b/firmware/V2.07_09-27-24.zip)
 - Added the ability to turn the D-Fi signal on and off
 
