@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V2.09 - ILS Command](https://github.com/Chauvet-DJ/ILSCOMMAND/blob/d926d39cc28a8fb3ed61c66a3b0adbfefc9c419c/firmware/V2.09_03-26-25.zip)
+- Fixed a delay when triggering the Par & Derby effect
+
 [V2.08 - ILS Command](https://github.com/Chauvet-DJ/ILSCOMMAND/blob/195c8954985e207372b45a1d0826375468e2f880/firmware/V2.08_11-15-24.zip)
 - Fixed a bug in the sound sensitivity settings
 
